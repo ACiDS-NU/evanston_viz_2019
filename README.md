@@ -29,7 +29,7 @@ To give a clear workflow example, if you like working with jupyter notebooks and
 How to handle data automatically is still up for debate, as most command-line solutions rely on AWS S3 buckets for dumping data into a repo after its cloned. In general, it's considered bad form to host your actual data on Github (when it's above 50 MB, e.g.). So the way to go at the moment is just adding processing and visualization scripts to the repo (as in the above example workflow) and manually downloading data from the [Evanston open data portal](https://data.cityofevanston.org/) for local development.
 
 ### Example analysis towards visualization
-Switch to 100% renewable electricity: the [solar projects by month dataset] could be mapped to identify hotspots for solar projects or correlations between such projects and wealth, race, etc (with census data).
+Switch to 100% renewable electricity: the [solar projects by month dataset](https://data.cityofevanston.org/Community-Development/Solar-Applications-by-Month/j7yr-bd8i) could be mapped to identify hotspots for solar projects or correlations between such projects and wealth, race, etc (with census data).
 
 Reduce VMT 35%: the [city owned electric vehicle charging station](https://data.cityofevanston.org/dataset/City-owned-Electric-Vehicle-Charging-Station-Usage/nx7w-jb8v) could provide some time-series insight into projections for meeting that goal (is electric vehicle charging increasing? are there certain locations or times when it stagnates?)...Or the [Divvy usage statistics](https://data.cityofevanston.org/Community-Development/Evanston-Divvy-Monthly-Metrics/88ex-7bq5)
 
