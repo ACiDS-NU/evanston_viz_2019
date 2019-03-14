@@ -1,0 +1,89 @@
+,id,source,use,year,value
+0,0,Coe,Total,2005,24559.0
+1,1,Residential,Electricity,2005,154524.0
+2,2,Commercial,Electricity,2005,366025.0
+3,3,Rail,Electricity,2005,18785.0
+4,4,Residential,Natural gas,2005,114674.0
+5,5,Commercial,Natural gas,2005,224266.0
+6,6,Community,Gasoline,2005,99664.0
+7,7,Community,Diesel,2005,25869.0
+8,8,Coe,Total,2006,23102.0
+9,9,Residential,Electricity,2006,146853.0
+10,10,Commercial,Electricity,2006,375318.0
+11,11,Rail,Electricity,2006,17400.0
+12,12,Residential,Natural gas,2006,116791.0
+13,13,Commercial,Natural gas,2006,221954.0
+14,14,Community,Gasoline,2006,97149.0
+15,15,Community,Diesel,2006,25216.0
+16,16,Coe,Total,2007,22783.0
+17,17,Residential,Electricity,2007,148194.0
+18,18,Commercial,Electricity,2007,380325.0
+19,19,Rail,Electricity,2007,18424.0
+20,20,Residential,Natural gas,2007,119144.0
+21,21,Commercial,Natural gas,2007,234950.0
+22,22,Community,Gasoline,2007,116452.0
+23,23,Community,Diesel,2007,30226.0
+24,24,Coe,Total,2008,21529.0
+25,25,Residential,Electricity,2008,144962.0
+26,26,Commercial,Electricity,2008,368634.0
+27,27,Rail,Electricity,2008,19037.0
+28,28,Residential,Natural gas,2008,127295.0
+29,29,Commercial,Natural gas,2008,245586.0
+30,30,Community,Gasoline,2008,111209.0
+31,31,Community,Diesel,2008,28865.0
+32,32,Coe,Total,2009,20969.0
+33,33,Residential,Electricity,2009,135831.0
+34,34,Commercial,Electricity,2009,364908.0
+35,35,Rail,Electricity,2009,14916.0
+36,36,Residential,Natural gas,2009,118762.0
+37,37,Commercial,Natural gas,2009,218672.0
+38,38,Community,Gasoline,2009,121684.0
+39,39,Community,Diesel,2009,31608.0
+40,40,Coe,Total,2010,19251.0
+41,41,Residential,Electricity,2010,149812.0
+42,42,Commercial,Electricity,2010,377846.0
+43,43,Rail,Electricity,2010,19366.0
+44,44,Residential,Natural gas,2010,114717.0
+45,45,Commercial,Natural gas,2010,198521.0
+46,46,Community,Gasoline,2010,133092.0
+47,47,Community,Diesel,2010,37903.0
+48,48,Coe,Total,2011,18661.0
+49,49,Residential,Electricity,2011,147949.0
+50,50,Commercial,Electricity,2011,317352.0
+51,51,Rail,Electricity,2011,21536.0
+52,52,Residential,Natural gas,2011,120070.0
+53,53,Commercial,Natural gas,2011,207016.0
+54,54,Community,Gasoline,2011,119657.0
+55,55,Community,Diesel,2011,34077.0
+56,56,Coe,Total,2012,16636.0
+57,57,Residential,Electricity,2012,75269.0
+58,58,Commercial,Electricity,2012,319145.0
+59,59,Rail,Electricity,2012,19979.0
+60,60,Residential,Natural gas,2012,120070.0
+61,61,Commercial,Natural gas,2012,211300.0
+62,62,Community,Gasoline,2012,109779.0
+63,63,Community,Diesel,2012,27445.0
+64,64,Coe,Total,2013,15770.0
+65,65,Residential,Electricity,2013,49547.0
+66,66,Commercial,Electricity,2013,306947.0
+67,67,Rail,Electricity,2013,22085.0
+68,68,Residential,Natural gas,2013,122458.0
+69,69,Commercial,Natural gas,2013,221533.0
+70,70,Community,Gasoline,2013,113014.0
+71,71,Community,Diesel,2013,28253.0
+72,72,Coe,Total,2014,10131.0
+73,73,Residential,Electricity,2014,39990.0
+74,74,Commercial,Electricity,2014,293807.0
+75,75,Rail,Electricity,2014,21416.0
+76,76,Residential,Natural gas,2014,114322.0
+77,77,Commercial,Natural gas,2014,185995.0
+78,78,Community,Gasoline,2014,144267.0
+79,79,Community,Diesel,2014,36066.0
+80,80,Coe,Total,2015,5590.0
+81,81,Residential,Electricity,2015,45832.0
+82,82,Commercial,Electricity,2015,258764.0
+83,83,Rail,Electricity,2015,13396.0
+84,84,Residential,Natural gas,2015,118433.0
+85,85,Commercial,Natural gas,2015,217779.0
+86,86,Community,Gasoline,2015,141773.0
+87,87,Community,Diesel,2015,35443.0
