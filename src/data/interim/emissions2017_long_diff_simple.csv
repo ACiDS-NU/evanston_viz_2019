@@ -1,109 +1,61 @@
-,id,source,Type,Year,dMTCO2e
-0,0,"Community Waste (garbage, recycling and organics)",Waste,2006,0.0
-1,1,Estimated Municipal Operations GHG Emissions,Municipal Mixed,2006,0.0
-2,2,Government non-City-owned Electricty,Electricity,2006,0.0
-3,3,Non-Residential Electricity,Electricity,2006,13756.0
-4,4,Non-Residential Gas Consumption,Gas,2006,-2313.0
-5,5,Renewable Energy Credits (RECs),Renewable Energy Credit,2006,
-6,6,Residential Electricity,Electricity,2006,-5484.0
-7,7,Residential Gas Consumption,Gas,2006,2117.0
-8,8,Vehicle Miles Traveled (VMT),Vehicle,2006,0.0
-9,9,"Community Waste (garbage, recycling and organics)",Waste,2007,0.0
-10,10,Estimated Municipal Operations GHG Emissions,Municipal Mixed,2007,0.0
-11,11,Government non-City-owned Electricty,Electricity,2007,0.0
-12,12,Non-Residential Electricity,Electricity,2007,6120.0
-13,13,Non-Residential Gas Consumption,Gas,2007,13042.0
-14,14,Renewable Energy Credits (RECs),Renewable Energy Credit,2007,
-15,15,Residential Electricity,Electricity,2007,1360.0
-16,16,Residential Gas Consumption,Gas,2007,2353.0
-17,17,Vehicle Miles Traveled (VMT),Vehicle,2007,0.0
-18,18,"Community Waste (garbage, recycling and organics)",Waste,2008,0.0
-19,19,Estimated Municipal Operations GHG Emissions,Municipal Mixed,2008,0.0
-20,20,Government non-City-owned Electricty,Electricity,2008,0.0
-21,21,Non-Residential Electricity,Electricity,2008,-11242.0
-22,22,Non-Residential Gas Consumption,Gas,2008,10693.0
-23,23,Renewable Energy Credits (RECs),Renewable Energy Credit,2008,
-24,24,Residential Electricity,Electricity,2008,-3280.0
-25,25,Residential Gas Consumption,Gas,2008,8151.0
-26,26,Vehicle Miles Traveled (VMT),Vehicle,2008,0.0
-27,27,"Community Waste (garbage, recycling and organics)",Waste,2009,0.0
-28,28,Estimated Municipal Operations GHG Emissions,Municipal Mixed,2009,0.0
-29,29,Government non-City-owned Electricty,Electricity,2009,0.0
-30,30,Non-Residential Electricity,Electricity,2009,-13620.0
-31,31,Non-Residential Gas Consumption,Gas,2009,-27021.0
-32,32,Renewable Energy Credits (RECs),Renewable Energy Credit,2009,
-33,33,Residential Electricity,Electricity,2009,-11289.0
-34,34,Residential Gas Consumption,Gas,2009,-8533.0
-35,35,Vehicle Miles Traveled (VMT),Vehicle,2009,0.0
-36,36,"Community Waste (garbage, recycling and organics)",Waste,2010,709.0
-37,37,Estimated Municipal Operations GHG Emissions,Municipal Mixed,2010,-5308.0
-38,38,Government non-City-owned Electricty,Electricity,2010,0.0
-39,39,Non-Residential Electricity,Electricity,2010,17388.0
-40,40,Non-Residential Gas Consumption,Gas,2010,-20223.0
-41,41,Renewable Energy Credits (RECs),Renewable Energy Credit,2010,
-42,42,Residential Electricity,Electricity,2010,13981.0
-43,43,Residential Gas Consumption,Gas,2010,-4045.0
-44,44,Vehicle Miles Traveled (VMT),Vehicle,2010,-3652.0
-45,45,"Community Waste (garbage, recycling and organics)",Waste,2011,0.0
-46,46,Estimated Municipal Operations GHG Emissions,Municipal Mixed,2011,0.0
-47,47,Government non-City-owned Electricty,Electricity,2011,0.0
-48,48,Non-Residential Electricity,Electricity,2011,-7245.0
-49,49,Non-Residential Gas Consumption,Gas,2011,12833.0
-50,50,Renewable Energy Credits (RECs),Renewable Energy Credit,2011,
-51,51,Residential Electricity,Electricity,2011,-1863.0
-52,52,Residential Gas Consumption,Gas,2011,5353.0
-53,53,Vehicle Miles Traveled (VMT),Vehicle,2011,0.0
-54,54,"Community Waste (garbage, recycling and organics)",Waste,2012,0.0
-55,55,Estimated Municipal Operations GHG Emissions,Municipal Mixed,2012,0.0
-56,56,Government non-City-owned Electricty,Electricity,2012,0.0
-57,57,Non-Residential Electricity,Electricity,2012,2708.0
-58,58,Non-Residential Gas Consumption,Gas,2012,0.0
-59,59,Renewable Energy Credits (RECs),Renewable Energy Credit,2012,
-60,60,Residential Electricity,Electricity,2012,5541.0
-61,61,Residential Gas Consumption,Gas,2012,0.0
-62,62,Vehicle Miles Traveled (VMT),Vehicle,2012,0.0
-63,63,"Community Waste (garbage, recycling and organics)",Waste,2013,0.0
-64,64,Estimated Municipal Operations GHG Emissions,Municipal Mixed,2013,0.0
-65,65,Government non-City-owned Electricty,Electricity,2013,0.0
-66,66,Non-Residential Electricity,Electricity,2013,-11636.0
-67,67,Non-Residential Gas Consumption,Gas,2013,10272.0
-68,68,Renewable Energy Credits (RECs),Renewable Energy Credit,2013,-54582.0
-69,69,Residential Electricity,Electricity,2013,-13191.0
-70,70,Residential Gas Consumption,Gas,2013,2388.0
-71,71,Vehicle Miles Traveled (VMT),Vehicle,2013,0.0
-72,72,"Community Waste (garbage, recycling and organics)",Waste,2014,0.0
-73,73,Estimated Municipal Operations GHG Emissions,Municipal Mixed,2014,0.0
-74,74,Government non-City-owned Electricty,Electricity,2014,0.0
-75,75,Non-Residential Electricity,Electricity,2014,-9276.0
-76,76,Non-Residential Gas Consumption,Gas,2014,-35670.0
-77,77,Renewable Energy Credits (RECs),Renewable Energy Credit,2014,-13458.0
-78,78,Residential Electricity,Electricity,2014,-657.0
-79,79,Residential Gas Consumption,Gas,2014,-8136.0
-80,80,Vehicle Miles Traveled (VMT),Vehicle,2014,0.0
-81,81,"Community Waste (garbage, recycling and organics)",Waste,2015,-1483.0
-82,82,Estimated Municipal Operations GHG Emissions,Municipal Mixed,2015,-8562.0
-83,83,Government non-City-owned Electricty,Electricity,2015,0.0
-84,84,Non-Residential Electricity,Electricity,2015,-32517.0
-85,85,Non-Residential Gas Consumption,Gas,2015,35798.0
-86,86,Renewable Energy Credits (RECs),Renewable Energy Credit,2015,16574.0
-87,87,Residential Electricity,Electricity,2015,-18234.0
-88,88,Residential Gas Consumption,Gas,2015,4111.0
-89,89,Vehicle Miles Traveled (VMT),Vehicle,2015,472.0
-90,90,"Community Waste (garbage, recycling and organics)",Waste,2016,1990.0
-91,91,Estimated Municipal Operations GHG Emissions,Municipal Mixed,2016,-2545.0
-92,92,Government non-City-owned Electricty,Electricity,2016,0.0
-93,93,Non-Residential Electricity,Electricity,2016,-39216.0
-94,94,Non-Residential Gas Consumption,Gas,2016,-9157.0
-95,95,Renewable Energy Credits (RECs),Renewable Energy Credit,2016,8849.0
-96,96,Residential Electricity,Electricity,2016,-7073.0
-97,97,Residential Gas Consumption,Gas,2016,-12362.0
-98,98,Vehicle Miles Traveled (VMT),Vehicle,2016,3592.0
-99,99,"Community Waste (garbage, recycling and organics)",Waste,2017,259.0
-100,100,Estimated Municipal Operations GHG Emissions,Municipal Mixed,2017,1.0
-101,101,Government non-City-owned Electricty,Electricity,2017,89.0
-102,102,Non-Residential Electricity,Electricity,2017,458.0
-103,103,Non-Residential Gas Consumption,Gas,2017,375.0
-104,104,Renewable Energy Credits (RECs),Renewable Energy Credit,2017,7514.0
-105,105,Residential Electricity,Electricity,2017,-3239.0
-106,106,Residential Gas Consumption,Gas,2017,3418.0
-107,107,Vehicle Miles Traveled (VMT),Vehicle,2017,20777.0
+,id,Use,Source,Year,PercentdMTCO2e
+0,0,Non-Residential Electricity,Electricity,2006,0.013177911383431622
+1,1,Non-Residential Gas,Gas,2006,-0.0022157973996712226
+2,2,Renewable Energy Credits,Renewable Energy Credit,2006,0.0
+3,3,Residential Electricity,Electricity,2006,-0.005253537803630344
+4,4,Vehicle Miles Traveled,Vehicle Miles Traveled,2006,0.0
+5,5,Non-Residential Electricity,Electricity,2007,0.019040721623806843
+6,6,Non-Residential Gas,Gas,2007,0.010278119455716623
+7,7,Renewable Energy Credits,Renewable Energy Credit,2007,0.0
+8,8,Residential Electricity,Electricity,2007,-0.003950691083546962
+9,9,Vehicle Miles Traveled,Vehicle Miles Traveled,2007,0.0
+10,10,Non-Residential Electricity,Electricity,2008,0.00827116072147053
+11,11,Non-Residential Gas,Gas,2008,0.02052175179237221
+12,12,Renewable Energy Credits,Renewable Energy Credit,2008,0.0
+13,13,Residential Electricity,Electricity,2008,-0.007092850820218649
+14,14,Vehicle Miles Traveled,Vehicle Miles Traveled,2008,0.0
+15,15,Non-Residential Electricity,Electricity,2009,-0.004776465989952752
+16,16,Non-Residential Gas,Gas,2009,-0.005363704989519748
+17,17,Renewable Energy Credits,Renewable Energy Credit,2009,0.0
+18,18,Residential Electricity,Electricity,2009,-0.017907436572440198
+19,19,Vehicle Miles Traveled,Vehicle Miles Traveled,2009,0.0
+20,20,Non-Residential Electricity,Electricity,2010,0.011880812516525077
+21,21,Non-Residential Gas,Gas,2010,-0.024736844122053743
+22,22,Renewable Energy Credits,Renewable Energy Credit,2010,0.0
+23,23,Residential Electricity,Electricity,2010,-0.00451398069487713
+24,24,Vehicle Miles Traveled,Vehicle Miles Traveled,2010,-0.0034985266336356705
+25,25,Non-Residential Electricity,Electricity,2011,0.004940279805492649
+26,26,Non-Residential Gas,Gas,2011,-0.012443144152325772
+27,27,Renewable Energy Credits,Renewable Energy Credit,2011,0.0
+28,28,Residential Electricity,Electricity,2011,-0.006298689106285469
+29,29,Vehicle Miles Traveled,Vehicle Miles Traveled,2011,-0.0034985266336356705
+30,30,Non-Residential Electricity,Electricity,2012,0.007534477539305736
+31,31,Non-Residential Gas,Gas,2012,-0.012443144152325772
+32,32,Renewable Energy Credits,Renewable Energy Credit,2012,-0.07357347863906165
+33,33,Residential Electricity,Electricity,2012,-0.0009905466974751598
+34,34,Vehicle Miles Traveled,Vehicle Miles Traveled,2012,-0.0034985266336356705
+35,35,Non-Residential Electricity,Electricity,2013,-0.0036125257216429664
+36,36,Non-Residential Gas,Gas,2013,-0.002602819513578345
+37,37,Renewable Energy Credits,Renewable Energy Credit,2013,-0.12586169898876104
+38,38,Residential Electricity,Electricity,2013,-0.013627201906754495
+39,39,Vehicle Miles Traveled,Vehicle Miles Traveled,2013,-0.0034985266336356705
+40,40,Non-Residential Electricity,Electricity,2014,-0.012498706733035209
+41,41,Non-Residential Gas,Gas,2014,-0.03677380664988294
+42,42,Renewable Energy Credits,Renewable Energy Credit,2014,-0.13875413366440967
+43,43,Residential Electricity,Electricity,2014,-0.014256591829618304
+44,44,Vehicle Miles Traveled,Vehicle Miles Traveled,2014,-0.0034985266336356705
+45,45,Non-Residential Electricity,Electricity,2015,-0.0436491970249112
+46,46,Non-Residential Gas,Gas,2015,-0.0024801986458057915
+47,47,Renewable Energy Credits,Renewable Energy Credit,2015,-0.12287664723892293
+48,48,Residential Electricity,Electricity,2015,-0.031724317634030365
+49,49,Vehicle Miles Traveled,Vehicle Miles Traveled,2015,-0.003046362183724379
+50,50,Non-Residential Electricity,Electricity,2016,-0.08121716538872731
+51,51,Non-Residential Gas,Gas,2016,-0.01125238056919074
+52,52,Renewable Energy Credits,Renewable Energy Credit,2016,-0.11439952177861568
+53,53,Residential Electricity,Electricity,2016,-0.03850007855399341
+54,54,Vehicle Miles Traveled,Vehicle Miles Traveled,2016,0.000394685918142907
+55,55,Non-Residential Electricity,Electricity,2017,-0.08077841259622864
+56,56,Non-Residential Gas,Gas,2017,-0.010893139745638335
+57,57,Renewable Energy Credits,Renewable Energy Credit,2017,-0.10720129365015499
+58,58,Residential Electricity,Electricity,2017,-0.041602961293956714
+59,59,Vehicle Miles Traveled,Vehicle Miles Traveled,2017,0.020298543494004992
