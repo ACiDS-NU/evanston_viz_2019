@@ -3,7 +3,7 @@
 A project to analyze, visualize, and communicate City of Evanston Open Data (in response to call for submissions to the [Love Data Week 2019 contest](https://sites.northwestern.edu/lovedataweek/contest/)). Ideally, the visuals created here will tell a coherent story to be printed for the competition.
 
 # Final Poster
-![Final Poster](reports/EvanstonViz Poster Draft_final.pdf)
+![Final Poster](reports/EvanstonViz%20Poster%20Draft_final.png)
 
 ## Project Organization
 
